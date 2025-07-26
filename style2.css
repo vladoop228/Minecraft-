@@ -1,0 +1,54 @@
+body{
+    background-image:url("inventar.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 700%;}
+.beondedepth{
+    position: absolute;
+    width: 71px;
+    height: 71px;
+    top:20%;
+    left: 38%;
+}
+.cavehorror{
+    position: absolute;
+    width: 71px;
+    height: 71px;
+   top:20%;
+    left: 29%;
+}
+.realizm{
+    position: absolute;
+    width: 71px;
+    height: 71px;
+    top:20%;
+    left: 33.4%;
+}
+.tyman{
+    position: absolute;
+    width: 71px;
+    height: 71px;
+    top:20%;
+    left: 47.4%;
+}
+.xzchoeto{
+    position: absolute;
+    width:71px;
+    height: 71px;
+    top:20%;
+    left: 52.2%;
+}
+.zombe{
+    position: absolute;
+    width: 71px;
+    height: 71px;
+    top:20%;
+    left: 43%;
+}
+.x{
+    position: absolute;
+     top:14%;
+    left: 48%;
+    width: 77px;
+    height: 77px;
+}

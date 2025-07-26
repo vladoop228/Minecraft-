@@ -1,0 +1,51 @@
+body{
+    background-image:url("apps.60323.14294656681058683.4d17bdd8-7026-429a-846f-cf7836bc9e56.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 200%;
+
+
+}
+.tablichka3{
+    position: absolute;
+    top:70% ;
+    left: 56%;
+}   
+.tablichka2{
+    position: absolute;
+    top:80% ;
+    left: 65%;
+}   
+.tablichka{
+    position: absolute;
+    top:59% ;
+    left: 72%;
+}   
+.a{
+    position: absolute;
+    top:59% ;
+    left: 74%;
+    color: black;
+    text-decoration: none;
+    font-size:33px;
+}
+.b{
+    position: absolute;
+    top:80% ;
+    left: 66.899%;
+    color: black;
+    text-decoration: none;
+     font-size: large;
+     font-size: 33px;
+     
+}
+.v{
+    position: absolute;
+    top:70% ;
+    left: 57.5%;
+    color: black;
+    text-decoration: none;
+     font-size: large;
+     font-size: 33px;
+     
+}

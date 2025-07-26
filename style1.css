@@ -1,0 +1,24 @@
+body{
+    background-image:url("cyndyk.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 700%;
+}
+.lol{
+    position:absolute ;
+    left:411px ;
+    top:311px ;
+    color: yellow;
+    font-size: 34px;
+    text-decoration: none;
+
+    
+}
+.lel{
+    position: absolute;
+    text-decoration: none;
+    left:1251px ;
+    top:600px ;
+     color: yellow;
+    font-size: 34px;
+}
